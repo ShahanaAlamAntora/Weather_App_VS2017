@@ -1,0 +1,13 @@
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+C:\Users\Antor\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojAssemblyReference.cache
